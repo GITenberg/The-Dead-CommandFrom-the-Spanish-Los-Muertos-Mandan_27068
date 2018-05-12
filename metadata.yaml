@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27068#The-Dead-CommandFrom-the-Spanish-Los-Muertos-Mandan
 gutenberg_issued: '2008-10-27'
 gutenberg_type: Text
 identifiers:
